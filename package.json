@@ -1,0 +1,28 @@
+{
+  "name": "backendgrupo5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drnosbourn/backendGrupo5.git"
+  },
+  "keywords": [
+    "GET",
+    "RESPONSE",
+    "request",
+    "post",
+    "PUT",
+    "PATCH",
+    "DELETE"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drnosbourn/backendGrupo5/issues"
+  },
+  "homepage": "https://github.com/Drnosbourn/backendGrupo5#readme"
+}
